@@ -12,12 +12,12 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "세상에 배울게 너무 많다"
+title                    : "깊은 산속 옹달샘"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "정석현(SEOKHYUNJEONG)"
@@ -312,7 +312,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  _posts:
   - scope:
       path: ""
       type: posts
